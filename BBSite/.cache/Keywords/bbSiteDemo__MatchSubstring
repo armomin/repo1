@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "2485A45F954E57A8DF3F7CACF7AB0CA1",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.MatchSubstring",
+      "keywordMethods": [
+        {
+          "name": "matchSubStringAndVerify",
+          "parameters": [
+            {
+              "name": "actualText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "expectedText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

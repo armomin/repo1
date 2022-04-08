@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_Click On Upadate Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d3e6bbb-4d14-4934-99e1-f852eac6704e</testCaseGuid>
+   <variable>
+      <defaultValue>4</defaultValue>
+      <description></description>
+      <id>51f8529e-3ea1-442c-9af9-635e36cc6019</id>
+      <masked>false</masked>
+      <name>Time</name>
+   </variable>
+</TestCaseEntity>

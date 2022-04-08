@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5567F50D8FCAFBF07C611FAB551B6910",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.Login",
+      "keywordMethods": [
+        {
+          "name": "LoginKW",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

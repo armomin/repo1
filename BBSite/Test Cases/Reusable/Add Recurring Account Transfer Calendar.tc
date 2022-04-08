@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Recurring Account Transfer Calendar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12ddc2c7-f060-48da-86f6-2e52443ad42d</testCaseGuid>
+   <variable>
+      <defaultValue>[('Administration') : 'Administration', ('Account Activities &amp; Reporting') : 'Account Activities &amp; Reporting', ('Payments &amp; Transfers') : 'Payments &amp; Transfers', ('Online Requests') : 'Online Requests']</defaultValue>
+      <description></description>
+      <id>52ec263d-70d6-4024-a4b3-e5f2204920b7</id>
+      <masked>false</masked>
+      <name>mainmenu_Tabs</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'Add Transfer', (2) : 'Add Tax Payment', (3) : 'Request Wire Investigation', (4) : 'Add Recurring Transfer']</defaultValue>
+      <description></description>
+      <id>b7711c1b-0c2f-40f0-8192-f9f4d47aaa27</id>
+      <masked>false</masked>
+      <name>submenu</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'https://bbsitedemo.btbanking.com/onlineserv/CM/olaa.cgi?state=recurtransfer']</defaultValue>
+      <description></description>
+      <id>2470d5c4-b5d9-4bd9-a82d-09bc03a343b4</id>
+      <masked>false</masked>
+      <name>current_URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>0ad5f52b-0439-4746-92ec-13e9f00120d8</id>
+      <masked>false</masked>
+      <name>rowno</name>
+   </variable>
+   <variable>
+      <defaultValue>'03/02/2022'</defaultValue>
+      <description></description>
+      <id>51f3593f-c88b-4bd2-9ddf-5d83bd715ec3</id>
+      <masked>false</masked>
+      <name>start_date</name>
+   </variable>
+   <variable>
+      <defaultValue>6</defaultValue>
+      <description></description>
+      <id>6551c9b7-fa5d-47cf-be73-c383de8fc50b</id>
+      <masked>false</masked>
+      <name>num_transfer</name>
+   </variable>
+</TestCaseEntity>

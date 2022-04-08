@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_102_Invalid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ce1a2bf-801d-4458-8fce-8ae1ce590322</testCaseGuid>
+   <variable>
+      <defaultValue>'9999COMP'</defaultValue>
+      <description></description>
+      <id>fde29886-2a5b-482e-ae02-716284616459</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>'9999DEMO'</defaultValue>
+      <description></description>
+      <id>8823a82e-441e-4279-a648-6d3f9b9fd1f5</id>
+      <masked>false</masked>
+      <name>userid</name>
+   </variable>
+   <variable>
+      <defaultValue>'PassIs Wrong'</defaultValue>
+      <description></description>
+      <id>fbad439a-5ee9-42e1-9ae3-49f8fd489287</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

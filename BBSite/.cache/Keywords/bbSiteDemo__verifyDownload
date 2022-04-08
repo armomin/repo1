@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "805B760558704CD9AC2F0D441C411A37",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.verifyDownload",
+      "keywordMethods": [
+        {
+          "name": "checkDownload",
+          "parameters": [
+            {
+              "name": "filename",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

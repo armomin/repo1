@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Initiate Freeform</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9129b0d-69cd-4c67-97c5-2fd63ca42ef3</testCaseGuid>
+   <variable>
+      <defaultValue>[('Administration') : 'Administration', ('Account Activities &amp; Reporting') : 'Account Activities &amp; Reporting', ('Payments &amp; Transfers') : 'Payments &amp; Transfers', ('Online Requests') : 'Online Requests']</defaultValue>
+      <description></description>
+      <id>d59e9d05-4a8d-4ff8-a963-bd585b26da7d</id>
+      <masked>false</masked>
+      <name>mainmenu_Tabs</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'Add Transfer', (2) : 'Add Tax Payment', (3) : 'Request Wire Investigation', (4) : 'Initiate Freeform']</defaultValue>
+      <description></description>
+      <id>f8802d95-ac6e-4805-afea-2553f0a3705c</id>
+      <masked>false</masked>
+      <name>submenu</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'https://bbsitedemo.btbanking.com/onlineserv/CM/CWire.cgi?state=viewfreeform']</defaultValue>
+      <description></description>
+      <id>55944774-5776-402b-bb38-33caeaa8ab17</id>
+      <masked>false</masked>
+      <name>current_URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>99216d9b-63ed-4dc4-9ce7-d9814e6eab3e</id>
+      <masked>false</masked>
+      <name>rownum</name>
+   </variable>
+</TestCaseEntity>

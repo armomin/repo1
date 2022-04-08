@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "41EBBA1D5F4209B1FA3F7F9D477EB042",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.BrokenLinks",
+      "keywordMethods": [
+        {
+          "name": "GetBrokenLinks",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

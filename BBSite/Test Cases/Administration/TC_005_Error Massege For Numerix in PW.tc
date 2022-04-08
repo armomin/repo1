@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Error Massege For Numerix in PW</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f2af9ea-9368-4d4a-9cd1-a2e1d502160a</testCaseGuid>
+   <variable>
+      <defaultValue>'Ram'</defaultValue>
+      <description></description>
+      <id>768a8863-d09a-4feb-8981-6fb8e631b60c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jadhav'</defaultValue>
+      <description></description>
+      <id>861bf764-8fd4-47ba-8841-97232cdf94c2</id>
+      <masked>false</masked>
+      <name>UserID</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789'</defaultValue>
+      <description></description>
+      <id>388fd3aa-4b62-4719-a4f4-328327225d1a</id>
+      <masked>false</masked>
+      <name>Userpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'jadhav@gmail.com'</defaultValue>
+      <description></description>
+      <id>625e70b3-31b8-4b72-830e-b0d68bef6af7</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

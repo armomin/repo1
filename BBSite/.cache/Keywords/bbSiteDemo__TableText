@@ -1,0 +1,53 @@
+{
+  "keywordFileContentHash": "AC51D7ED7D8910BAE755EE296BF1B696",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.TableText",
+      "keywordMethods": [
+        {
+          "name": "GetTRText",
+          "parameters": [
+            {
+              "name": "column",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "ElementToBeFound",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.util.ArrayList",
+                "unresolvedClassName": "ArrayList",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [
+                  {
+                    "fullClassName": "java.lang.String",
+                    "unresolvedClassName": "String",
+                    "isArray": false,
+                    "isGnericsPlaceHolder": false,
+                    "hasImmutableClassName": false,
+                    "genericsTypes": [],
+                    "errorOnParsing": false
+                  }
+                ],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * @author MOMIN\r\n\t * \r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

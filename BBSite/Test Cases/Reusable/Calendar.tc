@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Calendar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45ddead7-6db3-427e-8e27-d720ba321578</testCaseGuid>
+   <variable>
+      <defaultValue>[('Administration') : 'Administration', ('Account Activities &amp; Reporting') : 'Account Activities &amp; Reporting', ('Payments &amp; Transfers') : 'Payments &amp; Transfers', ('Online Requests') : 'Online Requests']</defaultValue>
+      <description></description>
+      <id>d51558df-69b1-481f-851b-5847a1b143eb</id>
+      <masked>false</masked>
+      <name>mainmenu_Tabs</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'Add Transfer', (2) : 'Add Tax Payment', (3) : 'Request Wire Investigation']</defaultValue>
+      <description></description>
+      <id>b5bfc76c-1995-4247-a34c-2530062e6a87</id>
+      <masked>false</masked>
+      <name>submenu</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'https://bbsitedemo.btbanking.com/onlineserv/CM/booktx.cgi?state=transfer']</defaultValue>
+      <description></description>
+      <id>7577ddf1-1ed1-4c10-b1dd-8f20f6832bfd</id>
+      <masked>false</masked>
+      <name>current_URL</name>
+   </variable>
+   <variable>
+      <defaultValue>[('') : findTestData(null).getValue(1, 1), ('') : '', ('') : '', ('') : '', ('') : '']</defaultValue>
+      <description></description>
+      <id>a98fb8c7-a560-4745-86ae-167adc0ae086</id>
+      <masked>false</masked>
+      <name>vabdi</name>
+   </variable>
+</TestCaseEntity>

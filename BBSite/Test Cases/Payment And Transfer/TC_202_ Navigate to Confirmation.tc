@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_202_ Navigate to Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a005d56b-0182-4eaf-9737-6389321f75df</testCaseGuid>
+   <variable>
+      <defaultValue>[('Administration') : 'Administration', ('Account Activities &amp; Reporting') : 'Account Activities &amp; Reporting', ('Payments &amp; Transfers') : 'Payments &amp; Transfers', ('Online Requests') : 'Online Requests']</defaultValue>
+      <description></description>
+      <id>2bb50e8c-cf16-4b63-a91b-1b9cd13cd79e</id>
+      <masked>false</masked>
+      <name>mainmenu_Tabs</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'Add Transfer', (2) : 'Add Tax Payment', (3) : 'Request Wire Investigation']</defaultValue>
+      <description></description>
+      <id>5b4b0c48-8e85-4d5c-92ed-db615317ad49</id>
+      <masked>false</masked>
+      <name>submenu</name>
+   </variable>
+   <variable>
+      <defaultValue>[(1) : 'https://bbsitedemo.btbanking.com/onlineserv/CM/ACH.cgi?state=eftpsPay']</defaultValue>
+      <description></description>
+      <id>76f4b193-509d-4c59-9f78-d660951425e4</id>
+      <masked>false</masked>
+      <name>current_URL</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>a2e9b0de-bcbd-4527-9ffb-f65b3bda3707</id>
+      <masked>false</masked>
+      <name>rownum</name>
+   </variable>
+</TestCaseEntity>

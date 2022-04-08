@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "1B25A498C3C2681853527D782B68B739",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.ConsoleText",
+      "keywordMethods": [
+        {
+          "name": "ConsoleToFile",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

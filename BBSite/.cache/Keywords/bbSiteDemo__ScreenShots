@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "54C073D4390AEB6031086D0D5184C682",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.ScreenShots",
+      "keywordMethods": [
+        {
+          "name": "takeSS",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

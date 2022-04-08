@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "B0CC121F3E57BB6B649B8669D9B87A0B",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.NumOfElements",
+      "keywordMethods": [
+        {
+          "name": "ElementsCount",
+          "parameters": [
+            {
+              "name": "column",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * @author MOMIN\r\n\t * This Keyword Takes TestObject As Parameter and provide total Number Of Objects Present On A Page pertaining\r\n\t *  To Xpath Of that Object\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

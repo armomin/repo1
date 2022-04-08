@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FetchExcel - PARAM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ff37ab1-60a0-4928-b101-d04cb3ab13e0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0677b798-c4fa-45a5-a22b-aaec932a93e5</id>
+      <masked>false</masked>
+      <name>dataObjectName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ae302d68-8ced-4266-81a2-4ac5b7bbd372</id>
+      <masked>false</masked>
+      <name>sheetName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>186a84e3-8f7f-4598-b960-042e6857398a</id>
+      <masked>false</masked>
+      <name>referenceColumnName</name>
+   </variable>
+</TestCaseEntity>

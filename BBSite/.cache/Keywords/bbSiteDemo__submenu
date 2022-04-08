@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "1FA7BD3599F323E472B06293DD01811B",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.submenu",
+      "keywordMethods": [
+        {
+          "name": "selectSubMenu",
+          "parameters": [
+            {
+              "name": "sub_menu",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "current_URL",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

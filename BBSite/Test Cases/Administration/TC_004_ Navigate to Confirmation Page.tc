@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004_ Navigate to Confirmation Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2922a4b-8ecf-4eb2-af94-785d25ef6dec</testCaseGuid>
+   <variable>
+      <defaultValue>'Ram@7767847008'</defaultValue>
+      <description></description>
+      <id>d33578dc-a40f-43be-9414-6d868e52a985</id>
+      <masked>false</masked>
+      <name>Userpassword</name>
+   </variable>
+</TestCaseEntity>

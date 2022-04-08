@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5EE53AFB7931ED81FA225B716BBDB44D",
+  "keywordClasses": [
+    {
+      "name": "bbSiteDemo.GetExcel",
+      "keywordMethods": [
+        {
+          "name": "getExcelKW",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

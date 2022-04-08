@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_204_Participant Linked</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79690bd0-d84d-4d6e-8cdb-5aab3d503574</testCaseGuid>
+   <variable>
+      <defaultValue>[('Administration') : 'Administration', ('Account Activities &amp; Reporting') : 'Account Activities &amp; Reporting', ('Payments &amp; Transfers') : 'Payments &amp; Transfers', ('Online Requests') : 'Online Requests']</defaultValue>
+      <description></description>
+      <id>201960ce-e509-48d5-9b31-71b627377a52</id>
+      <masked>false</masked>
+      <name>mainmenu_Tabs</name>
+   </variable>
+   <variable>
+      <defaultValue>'Initiate Batch'</defaultValue>
+      <description></description>
+      <id>684adde0-a473-4ac8-a759-1708d6fbdb50</id>
+      <masked>false</masked>
+      <name>submenu</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://bbsitedemo.btbanking.com/onlineserv/CM/ACH.cgi?state=achInitiate&amp;ActionType=init'</defaultValue>
+      <description></description>
+      <id>e202edfe-ac0a-4ca5-9e06-4ee3f4f77187</id>
+      <masked>false</masked>
+      <name>current_URL</name>
+   </variable>
+</TestCaseEntity>

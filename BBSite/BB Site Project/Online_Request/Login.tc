@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d28ad4e8-fe02-46cb-8060-5925b2a0cbf4</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('BB_Bank_ExcelData').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>d8155429-4579-4174-93ec-affc7158c204</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('BB_Bank_ExcelData').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>27231963-f5de-42e0-bd61-fb2eeae32458</id>
+      <masked>false</masked>
+      <name>userid</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('BB_Bank_ExcelData').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>ac12dba9-279c-4463-a8bc-ec87cbb9cf46</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

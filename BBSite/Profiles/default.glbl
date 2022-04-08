@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://bbsitedemo.btbanking.com/onlineserv/CM/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://bbsitedemo.btbanking.com/onlineserv/CM/CWire.cgi?state=viewfreeform'</initValue>
+      <name>HomeURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://bbsitedemo.btbanking.com/onlineserv/CM/booktx.cgi?state=transfer'</initValue>
+      <name>Add_Transfer</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>testCaseName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>dateAfter</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D://BBSite//Snaps'</initValue>
+      <name>sspath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('View Account Summary') : 'https://bbsitedemo.btbanking.com/onlineserv/CM/olaa.cgi?statummary']</initValue>
+      <name>UrlList</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://bbsitedemo.btbanking.com/onlineserv/CM/'</initValue>
+      <name>Btbank</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\momfr\\Downloads'</initValue>
+      <name>downloadpath</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
